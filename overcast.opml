@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="1.0">
+  <head><title>Overcast Podcast Subscriptions</title></head>
+  <body>
+    <outline text="feeds">
+
+      <outline type="rss" overcastId="497950" text="Democracy Now! Audio" title="Democracy Now! Audio" xmlUrl="https://www.democracynow.org/podcast.xml" htmlUrl="http://www.democracynow.org/"/>
+      <outline type="rss" overcastId="934762" text="New Books Network" title="New Books Network" xmlUrl="https://feeds.megaphone.fm/LIT4543917034" htmlUrl="https://newbooksnetwork.com/category/new-books-network/"/>
+      <outline type="rss" overcastId="552108" text="Risky Business" title="Risky Business" xmlUrl="http://risky.biz/feeds/risky-business/" htmlUrl="https://risky.biz/"/>
+      <outline type="rss" overcastId="963772" text="Learn Spanish: Notes in Spanish Inspired Beginners" title="Learn Spanish: Notes in Spanish Inspired Beginners" xmlUrl="https://learnrealspanish.libsyn.com/rss" htmlUrl="http://www.notesinspanish.com/"/>
+      <outline type="rss" overcastId="1348221" text="I Spy" title="I Spy" xmlUrl="https://feeds.megaphone.fm/i-spy-foreign-policy" htmlUrl="https://foreignpolicy.com/"/>
+      <outline type="rss" overcastId="8866" text="SANS Internet Stormcenter Daily Network/Cyber Security and Information Security Stormcast" title="SANS Internet Stormcenter Daily Network/Cyber Security and Information Security Stormcast" xmlUrl="https://isc.sans.edu/dailypodcast.xml" htmlUrl="https://isc.sans.edu/podcast.html"/>
+      <outline type="rss" overcastId="567237" text="Global News Podcast" title="Global News Podcast" xmlUrl="https://podcasts.files.bbci.co.uk/p02nq0gn.rss" htmlUrl="http://www.bbc.co.uk/programmes/p02nq0gn"/>
+      <outline type="rss" overcastId="583728" text="Masters of Scale with Reid Hoffman" title="Masters of Scale with Reid Hoffman" xmlUrl="https://rss.art19.com/masters-of-scale" htmlUrl="http://www.mastersofscale.com/"/>
+      <outline type="rss" overcastId="113989" text="Arrested DevOps" title="Arrested DevOps" xmlUrl="https://www.arresteddevops.com/episode/index.xml" htmlUrl="https://www.arresteddevops.com/"/>
+      <outline type="rss" overcastId="1161130" text="The Scoop" title="The Scoop" xmlUrl="https://feeds.megaphone.fm/theblock-thescoop" htmlUrl="https://www.theblockcrypto.com/"/>
+      <outline type="rss" overcastId="4490" text="Learn Chinese | ChineseClass101.com" title="Learn Chinese | ChineseClass101.com" xmlUrl="https://www.chineseclass101.com/wp-feed-audio-video.php" htmlUrl="https://www.chineseclass101.com/"/>
+      <outline type="rss" overcastId="921029" text="Learn French by Podcast" title="Learn French by Podcast" xmlUrl="https://ftew.libsyn.com/rss" htmlUrl="https://learnfrenchbypodcast.com/"/>
+      <outline type="rss" overcastId="120610" text="Software Defined Talk" title="Software Defined Talk" xmlUrl="https://feeds.fireside.fm/sdt/rss" htmlUrl="https://www.softwaredefinedtalk.com/"/>
+      <outline type="rss" overcastId="1282251" text="Relay Chain" title="Relay Chain" xmlUrl="https://feeds.fireside.fm/relaychain/rss" htmlUrl="https://relaychain.fm/"/>
+      <outline type="rss" overcastId="1452669" text="The Beautiful Universe: Chandra in HD" title="The Beautiful Universe: Chandra in HD" xmlUrl="https://chandra.harvard.edu/resources/podcasts/hd/podcasts.xml" htmlUrl="https://chandra.harvard.edu/resources/podcasts/hd/"/>
+      <outline type="rss" overcastId="505780" text="NPR News Now" title="NPR News Now" xmlUrl="https://feeds.npr.org/500005/podcast.xml" htmlUrl="http://www.npr.org/templates/topics/topic.php?topicId=1001"/>
+
+    </outline>
+  </body>
+</opml>
